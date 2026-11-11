@@ -1,0 +1,10 @@
+# SHA-256  Archive  Download URL
+5cd3c222a30bedb7b63150d18704721f60224b7295568816cd6fe3207bcad0df libgit2.tar.gz https://codeload.github.com/libgit2/libgit2/tar.gz/a2bde63741977ca0f4ef7db2f609df320be67a08
+ed34abb9732eb7f8ac97db38ff74553f9ef63f80c3866ff4127727a98d02c64b quazip.tar.gz https://codeload.github.com/stachenov/quazip/tar.gz/b6943c314188873f410dfaf8a21fc765adf17825
+78081e71dfd765e581757755fad842d3fb9fd1a255ef47deaae2710a4dbca6d2 svgpp.tar.gz https://codeload.github.com/svgpp/svgpp/tar.gz/fda1fd889548289178261d7aa02dd5d647247f94
+7009fe1faa1697476bdc7027703a2badb84e849b7b0baad5086b087b971f8617 boost.tar.bz2 https://archives.boost.io/release/1.85.0/source/boost_1_85_0.tar.bz2
+a14320d82194807c4480ce59c98aa71cd4175a5156645c4e2b3edd330b930627 clipper.zip https://downloads.sourceforge.net/project/polyclipping/clipper_ver6.4.2.zip
+737fe3846ab2333a250dfadf1ed6ebe1860af1d8a5ff5e7803c772cc4256e50a ngspice.tar.gz https://downloads.sourceforge.net/project/ngspice/ng-spice-rework/old-releases/42/ngspice-42.tar.gz
+383dc907816338f0cba72088a524c07458dfc69ce684ca9132fcc4fe91c24b0b qtbase-everywhere-src-6.10.3.tar.xz https://download.qt.io/archive/qt/6.10/6.10.3/submodules/qtbase-everywhere-src-6.10.3.tar.xz
+b3223fe005f6a4c7f21f34e4ee6ce0094737cff9503ba15bbb171ac18794f76d qtsvg-everywhere-src-6.10.3.tar.xz https://download.qt.io/archive/qt/6.10/6.10.3/submodules/qtsvg-everywhere-src-6.10.3.tar.xz
+3fb30bec133316b6f65b6e03a38087a59c7d337cd9b021486a814a9bc10a31ef qtserialport-everywhere-src-6.10.3.tar.xz https://download.qt.io/archive/qt/6.10/6.10.3/submodules/qtserialport-everywhere-src-6.10.3.tar.xz
